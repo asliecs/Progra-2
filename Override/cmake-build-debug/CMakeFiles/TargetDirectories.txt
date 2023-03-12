@@ -1,0 +1,3 @@
+C:/Progra 2/Semana 2/Override/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Semana 2/Override/cmake-build-debug/CMakeFiles/Override.dir
+C:/Progra 2/Semana 2/Override/cmake-build-debug/CMakeFiles/edit_cache.dir
