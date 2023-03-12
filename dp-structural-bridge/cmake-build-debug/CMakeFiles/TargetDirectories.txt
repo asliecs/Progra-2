@@ -1,0 +1,6 @@
+C:/Progra 2/Semana 13/dp-structural-bridge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 13/dp-structural-bridge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Semana 13/dp-structural-bridge/cmake-build-debug/src/CMakeFiles/dp-structural-bridge_run.dir
+C:/Progra 2/Semana 13/dp-structural-bridge/cmake-build-debug/src/CMakeFiles/dp-structural-bridge_lib.dir
+C:/Progra 2/Semana 13/dp-structural-bridge/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 13/dp-structural-bridge/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
