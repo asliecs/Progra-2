@@ -1,0 +1,9 @@
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/tst/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/tst/CMakeFiles/partial-test-1-q2-colegiado_tst.dir
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/tst/CMakeFiles/edit_cache.dir
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/src/CMakeFiles/partial-test-1-q2-colegiado_run.dir
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/src/CMakeFiles/partial-test-1-q2-colegiado_lib.dir
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Progra 2/Examenes/partial-test-1-q2-asliecs/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
