@@ -1,0 +1,3 @@
+C:/Progra 2/Semana 2/virtual-01-basic/cmake-build-debug/CMakeFiles/virtual_01_basic.dir
+C:/Progra 2/Semana 2/virtual-01-basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 2/virtual-01-basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
