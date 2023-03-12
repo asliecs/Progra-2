@@ -1,0 +1,3 @@
+C:/Progra 2/Semana 7/generics-01-templates/cmake-build-debug/CMakeFiles/generics_01_templates.dir
+C:/Progra 2/Semana 7/generics-01-templates/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 7/generics-01-templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
