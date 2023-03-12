@@ -1,0 +1,6 @@
+C:/Progra 2/Semana 1/oop-encapsulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 1/oop-encapsulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Semana 1/oop-encapsulation/cmake-build-debug/src/CMakeFiles/oop-encapsulation_run.dir
+C:/Progra 2/Semana 1/oop-encapsulation/cmake-build-debug/src/CMakeFiles/oop-encapsulation_lib.dir
+C:/Progra 2/Semana 1/oop-encapsulation/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 1/oop-encapsulation/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
