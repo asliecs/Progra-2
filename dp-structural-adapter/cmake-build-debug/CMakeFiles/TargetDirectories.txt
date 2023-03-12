@@ -1,0 +1,6 @@
+C:/Progra 2/Semana 8/dp-structural-adapter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 8/dp-structural-adapter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Semana 8/dp-structural-adapter/cmake-build-debug/src/CMakeFiles/dp-creational-adapter_run.dir
+C:/Progra 2/Semana 8/dp-structural-adapter/cmake-build-debug/src/CMakeFiles/dp-creational-adapter_lib.dir
+C:/Progra 2/Semana 8/dp-structural-adapter/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 8/dp-structural-adapter/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
