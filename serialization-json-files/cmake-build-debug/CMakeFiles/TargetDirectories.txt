@@ -1,0 +1,9 @@
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/src/CMakeFiles/serialization-json-files_run.dir
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/src/CMakeFiles/serialization-json-files_lib.dir
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/tst/CMakeFiles/serialization-json-files_tst.dir
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/tst/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 14/serialization-json-files/cmake-build-debug/tst/CMakeFiles/rebuild_cache.dir
