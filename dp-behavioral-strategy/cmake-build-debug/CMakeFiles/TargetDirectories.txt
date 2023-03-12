@@ -1,0 +1,6 @@
+C:/Progra 2/Semana 14/dp-behavioral-strategy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 14/dp-behavioral-strategy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Semana 14/dp-behavioral-strategy/cmake-build-debug/src/CMakeFiles/dp-behavioral-strategy_run.dir
+C:/Progra 2/Semana 14/dp-behavioral-strategy/cmake-build-debug/src/CMakeFiles/dp-behavioral-strategy_lib.dir
+C:/Progra 2/Semana 14/dp-behavioral-strategy/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 14/dp-behavioral-strategy/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
