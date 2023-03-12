@@ -1,0 +1,6 @@
+C:/Progra 2/Semana 7/dp-creational-singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 7/dp-creational-singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Progra 2/Semana 7/dp-creational-singleton/cmake-build-debug/src/CMakeFiles/dp-creational-singleton_run.dir
+C:/Progra 2/Semana 7/dp-creational-singleton/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Progra 2/Semana 7/dp-creational-singleton/cmake-build-debug/src/CMakeFiles/dp-creational-singleton_lib.dir
+C:/Progra 2/Semana 7/dp-creational-singleton/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
